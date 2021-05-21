@@ -7,6 +7,9 @@ This is a Game, named 'Corona Colony Destroy!', which you will act
 as a hero to protect this world from viruses.
 
 You will have 3 Class of Heroes to choose from.
+- Samurai Warrior
+- Purify Mage
+- Furious Healer
 Each Hero Class has different ability.
 
 Choose your best fit! and kill all the villian Virus!!
