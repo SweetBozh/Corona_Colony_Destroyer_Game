@@ -2,6 +2,7 @@
 Project EGCO112 - First year C++
 
 Due to the COVID-19, We found many people's hatred to the virus.
+
 This is a Game, named 'Corona Colony Destroy!', which you will act
 as a hero to protect this world from viruses.
 
