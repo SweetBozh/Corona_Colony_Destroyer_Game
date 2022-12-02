@@ -13,6 +13,8 @@ using namespace std;
 #include "myexception.h"
 #include "HighScore.h"
 
+// asd
+
 //cin ทุกจุดจะต้องทำ throw, catch สำหรับหัวข้อ exception handling
 
 /* สิ่งที่ต้องทำ

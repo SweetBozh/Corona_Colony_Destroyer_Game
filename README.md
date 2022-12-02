@@ -37,3 +37,5 @@ otherwise, you will be hitted by the virus.
 
 ---------------------
 There's a lot more to explore in our game, just play. :)
+
+<3
