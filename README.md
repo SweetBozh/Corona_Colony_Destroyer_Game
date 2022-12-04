@@ -1,6 +1,8 @@
 # Corona_Colony_Destroyer_Game
 Project EGCO112 - First year C++
 
+![cover_img](./cover_pic/Pic11.png)
+
 Due to the COVID-19, We found many people's hatred to the virus.
 
 This is a Game, named 'Corona Colony Destroy!', which you will act
@@ -16,6 +18,8 @@ There is 2 modes in this Game
 
 1.) Normal Mode
 The Game Play Rule:
+
+![guesstowin_img](./cover_pic/Pic12.png)
 
 Virus will choose a number in range 1-100
 You have to guess what it is.
